@@ -1,2 +1,2 @@
 # Sentiment-Analyzer
-Sentiment analysis from social media reviews (tweets) using NLP.
+Sentiment analysis using NLP.
